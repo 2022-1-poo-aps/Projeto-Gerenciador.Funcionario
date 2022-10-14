@@ -1,4 +1,8 @@
-package Git;
+package br.ufpb.projeto.poo.gerenciador.main;
+
+import br.ufpb.projeto.poo.gerenciador.exception.FuncionarioNaoEncontradoException;
+import br.ufpb.projeto.poo.gerenciador.outros.Funcionario;
+import br.ufpb.projeto.poo.gerenciador.outros.ListEmpresa;
 
 import javax.swing.*;
 import java.io.IOException;

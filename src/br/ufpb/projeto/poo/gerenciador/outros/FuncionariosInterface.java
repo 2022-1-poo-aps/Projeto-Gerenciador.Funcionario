@@ -1,5 +1,7 @@
 package br.ufpb.projeto.poo.gerenciador.outros;
 
+import br.ufpb.projeto.poo.gerenciador.exception.FuncionarioNaoEncontradoException;
+
 import java.util.List;
 
 public interface FuncionariosInterface {

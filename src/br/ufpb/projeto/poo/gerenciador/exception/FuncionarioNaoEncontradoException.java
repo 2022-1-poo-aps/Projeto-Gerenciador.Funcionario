@@ -1,4 +1,4 @@
-package Git;
+package br.ufpb.projeto.poo.gerenciador.exception;
 
 public class FuncionarioNaoEncontradoException extends Exception {
 
