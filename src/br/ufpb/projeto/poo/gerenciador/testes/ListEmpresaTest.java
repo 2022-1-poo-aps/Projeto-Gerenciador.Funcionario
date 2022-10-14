@@ -1,4 +1,4 @@
-package br.ufpb.projeto.poo.gerenciador.outros.testes;
+package br.ufpb.projeto.poo.gerenciador.testes;
 
 import java.util.Iterator;
 import java.util.LinkedList;

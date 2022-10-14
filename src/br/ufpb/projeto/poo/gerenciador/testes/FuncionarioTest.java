@@ -1,4 +1,4 @@
-package br.ufpb.projeto.poo.gerenciador.outros.testes;
+package br.ufpb.projeto.poo.gerenciador.testes;
 
 import br.ufpb.projeto.poo.gerenciador.outros.Funcionario;
 import org.junit.jupiter.api.Assertions;
